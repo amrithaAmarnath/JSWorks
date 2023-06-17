@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair:wght@300;400;500;600&display=swap');
+
+
+
+
+body{
+    background-color: #6E6E6E;
+    font-family: 'Playfair', serif;
+    font-size: 20px;
+}
+.card .card-text{
+    color: black;
+}
+span{
+    color: rgb(62, 61, 61);
+}
+.card .list-group-item{
+    color: black;
+    
+}
